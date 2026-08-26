@@ -15,6 +15,6 @@ A cheatsheet/playbook I created in Obsidian during my study for the OSWP certifi
 
 This playbook is not extensive and is for reference purposes only. It does not cover all the course material, and commands, tools, and syntax may have changed since it was created. It should not be used as a substitute for the official PEN-210 course.
 
-Use this playbook as a starting point to help you build your workflow and note-taking structure. Keep in mind that these methods are based on my personal experience and what worked for me may not work for you. 
+Use this playbook as a starting point to help you build your workflow and note-taking structure. Keep in mind that these methods are based on my personal experience and what worked for me may not work for you. This playbook is largely built off of attacks done in WifiChallenge Lab and it is possible they may not work in the exam or syntax modification may be needed. 
 
 I strongly recommend building your own playbook as you progress through the course and when you practice your attacks so you have something tailored to your own personal style.
