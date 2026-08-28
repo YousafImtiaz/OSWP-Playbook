@@ -157,4 +157,4 @@ Below is the entire file:
 sudo hostapd-mana /etc/hostapd-mana/mana.conf
 ```
 
-We should receive our output here after a bit with a command which tells us how to crack the password hash. Now we can take this and provide a wordlist to crack it. we should also note down the "identity" in the output as we will need it for our configuration file later for connecting to the AP.
+We should receive our output here after a bit with a command which tells us how to crack the password hash. Now we can take this and provide a wordlist to crack it. We should also note down the "identity" in the output as we will need it for our configuration file later for connecting to the AP.
