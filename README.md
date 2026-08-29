@@ -12,7 +12,7 @@ A cheatsheet/playbook I created in Obsidian during my study for the OSWP certifi
 4. Double click the extracted folder called "OSWP-Playbook-main" then select the folder inside (the actual vault) to open it in Obsidian.
 
 ## Playbook Overview
-![Playbook Overview](./Image/Playbook%20Overview.jpg)
+![Playbook Overview](./.image/Playbook%20Overview.jpg)
 
 ## Disclaimer
 
